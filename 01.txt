@@ -1,0 +1,7 @@
+﻿1.	Simulujte beh digitálnych hodín.
+V strede obrazovky nech sa do stlačenia ľubovoľnej klávesy zobrazuje aktuálny čas.
+Čas nech sa zobrazuje vždy po aktualizácii v iných farbách, mimo čiernej.
+Pracujte v grafickom móde.
+Pred hodnotu hodín, minút a sekúnd menších než 10 predraďte vo výpise 0. 
+
+uses dos
